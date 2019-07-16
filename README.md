@@ -1,0 +1,2 @@
+# text-recognizer-script-id
+
