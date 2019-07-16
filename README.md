@@ -261,11 +261,7 @@ python ../bin/textDetection.py  -i test.list -o /tmp/result_detOnly -t full -m d
 
 ## 4.4 Demo Code
 You may find ipython2 notebook under `notebook`. Alternatively, you are welcome to use our provided google colab notebooks (open and clone your own)
-- Python2 Notebook
-  - [google colab](https://drive.google.com/file/d/1uhcA6nYZoBcHmEdnJUHLp4WeXsPN6OIB/view?usp=sharing)
-  - [github](https://github.com/rex-yue-wu/Notebooks/blob/master/textDetNotebookPython2.ipynb)
 - python3 Notebook
-  - [google colab](https://drive.google.com/file/d/13TRD6yeBtCo2IP5tJklvwpJcy91jXyJD/view?usp=sharing)
-  - [github](https://github.com/rex-yue-wu/Notebooks/blob/master/textDetNotebookPython3.ipynb)
-
+  - [google colab](https://drive.google.com/file/d/1DdDud5bW8rOfRzOTVtrU9dLaEDvi8Mcv/view?usp=sharing)
+  
 
